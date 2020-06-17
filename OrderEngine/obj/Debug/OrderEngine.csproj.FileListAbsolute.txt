@@ -12,3 +12,10 @@ D:\manoj\Msk\OrderEngine\obj\Debug\OrderEngine.csproj.CoreCompileInputs.cache
 D:\manoj\Msk\OrderEngine\obj\Debug\OrderEngine.csproj.CopyComplete
 D:\manoj\Msk\OrderEngine\obj\Debug\OrderEngine.dll
 D:\manoj\Msk\OrderEngine\obj\Debug\OrderEngine.pdb
+D:\manoj\Msk\OrderEngine\bin\Debug\Newtonsoft.Json.dll
+D:\manoj\Msk\OrderEngine\bin\Debug\nunit.framework.dll
+D:\manoj\Msk\OrderEngine\bin\Debug\OrderEngineP.dll
+D:\manoj\Msk\OrderEngine\bin\Debug\OrderEngineP.pdb
+D:\manoj\Msk\OrderEngine\bin\Debug\Newtonsoft.Json.xml
+D:\manoj\Msk\OrderEngine\bin\Debug\nunit.framework.pdb
+D:\manoj\Msk\OrderEngine\bin\Debug\nunit.framework.xml
