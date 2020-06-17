@@ -1,14 +1,15 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using NUnit.Framework;
 
 namespace OrderEngine
 {
-    [TestClass]
+
     public class OrderUnitTest
     {
-        [TestMethod]
-        public void TestMethod1()
+        [Test]
+        public void CreateOrderDetails()
         {
+            var orderdetails = new OrderDetails();
+
         }
     }
 }
