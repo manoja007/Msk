@@ -1,0 +1,9 @@
+D:\manoj\Msk\OrderEngineP\bin\Debug\netstandard2.0\OrderEngineP.deps.json
+D:\manoj\Msk\OrderEngineP\bin\Debug\netstandard2.0\OrderEngineP.dll
+D:\manoj\Msk\OrderEngineP\bin\Debug\netstandard2.0\OrderEngineP.pdb
+D:\manoj\Msk\OrderEngineP\obj\Debug\netstandard2.0\OrderEngineP.csprojAssemblyReference.cache
+D:\manoj\Msk\OrderEngineP\obj\Debug\netstandard2.0\OrderEngineP.AssemblyInfoInputs.cache
+D:\manoj\Msk\OrderEngineP\obj\Debug\netstandard2.0\OrderEngineP.AssemblyInfo.cs
+D:\manoj\Msk\OrderEngineP\obj\Debug\netstandard2.0\OrderEngineP.csproj.CoreCompileInputs.cache
+D:\manoj\Msk\OrderEngineP\obj\Debug\netstandard2.0\OrderEngineP.dll
+D:\manoj\Msk\OrderEngineP\obj\Debug\netstandard2.0\OrderEngineP.pdb
